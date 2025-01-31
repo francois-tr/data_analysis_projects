@@ -1,0 +1,3 @@
+After exploring the entire data set and with some calculations we were able to figure out two keys indicators showing us if a customer will leave or not :
+
+![test](data_analysis_projects/Credit_card_analysis/images/Average_transaction_count_while_active.png)
