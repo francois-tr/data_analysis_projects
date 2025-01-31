@@ -25,7 +25,7 @@ Conclusion :
 The analysis provides two key ways to identify customers at high risk of leaving by examining their financial behavior.
 It also suggests potential solutions for retaining these customers and generates a list of clients who may leave soon, allowing the bank to take direct action.
 
-![Chart to show the first indicator](Credit_card_analysis/images/Average_transaction_count_while_active.png)
+![Chart to show the first indicator](./Credit_card_analysis/images/Average_transaction_count_while_active.png)
 ![Chart to show the second indicator](.C:\Users\ftroa\Credit_card_analysis\Average_transaction_count_while_active.png)
 ![Chart to show how to increase fidelity](.C:\Users\ftroa\Credit_card_analysis\Relationship_count_comparison.png)
 
