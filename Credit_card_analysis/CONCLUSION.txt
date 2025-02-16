@@ -1,3 +1,6 @@
 After exploring the entire data set and with some calculations we were able to figure out two keys indicators showing us if a customer will leave or not :
 
-![test](Credit_card_analysis/images/Average_transaction_count_while_active.png)
+If the ratio fall under 0.11 on consecutive months, the client is at risk to leave
+If the number of transaction fall under 7.15 by months, the client is also at risk
+
+And we also found something interesting to help him keep his customers, since we saw that a customer with more than 2 products have an higher tendancy to stay in the bank. Therefore selling more products to them could help him keep his customers.
